@@ -1,3 +1,4 @@
+" use client "
 import { fetchCars } from "@/utils/index";
 import { HomeProps } from "@/types/index";
 import { fuels, yearsOfProduction } from "@/constants/index";
